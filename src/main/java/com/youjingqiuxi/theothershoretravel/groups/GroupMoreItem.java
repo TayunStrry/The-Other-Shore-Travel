@@ -13,6 +13,6 @@ public class GroupMoreItem extends ItemGroup
     @Override
     public ItemStack makeIcon()
     {
-        return new ItemStack(ItemLoader.grassIngot.get());
+        return new ItemStack(ItemLoader.MagicCrystal.get());
     }
 }

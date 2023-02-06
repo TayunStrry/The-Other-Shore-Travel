@@ -11,5 +11,5 @@ public class ItemLoader
 {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Utils.MODID);
 
-    public static final RegistryObject<Item> grassIngot = ITEMS.register("magiccrystal", ItemMagicCrystal::new);
+    public static final RegistryObject<Item> MagicCrystal = ITEMS.register("magiccrystal", ItemMagicCrystal::new);
 }
