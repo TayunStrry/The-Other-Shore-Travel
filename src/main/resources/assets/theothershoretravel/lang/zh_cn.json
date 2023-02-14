@@ -1,4 +1,5 @@
 {
-  "itemGroup.TheOtherShoreTravel": "彼岸|旅行",
-  "item.theothershoretravel.magiccrystal": "魔晶石"
+  "block.theothershoretravel.magic_crystal_block": "魔晶块",
+  "item.theothershoretravel.magic_crystal": "魔晶石",
+  "itemGroup.TheOtherShoreTravel": "彼岸|旅行"
 }
